@@ -1,7 +1,5 @@
-// components/Navigation.tsx
 import Link from 'next/link';
 import { NavItem } from '@/types';
-import Image from 'next/image';
 
 const navItems: NavItem[] = [
   { href: '/start-petition', label: 'Start a petition' },

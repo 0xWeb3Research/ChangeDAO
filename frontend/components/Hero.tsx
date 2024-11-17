@@ -1,10 +1,6 @@
 import Link from 'next/link';
 
-interface HeroProps {
-  petitionCount: number;
-}
-
-export const Hero = ({ petitionCount }: HeroProps) => {
+export const Hero = () => {
   return (
     <main
       className="min-h-[75vh] max-w-7xl mx-auto px-4 py-16 text-center flex flex-col justify-center items-center"
