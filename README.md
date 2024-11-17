@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/0xWeb3Research/ChangeDAO/refs/heads/main/logo.png" alt="ChangeDAO" style="width: 25%; text-align: center;"/> 
+<img src="https://github.com/0xWeb3Research/ChangeDAO/blob/db845afbb316b881410c08e65654bb656c0be017/logo.png" alt="ChangeDAO" style="width: 25%; text-align: center;"/> 
 </div> 
 
 ---
