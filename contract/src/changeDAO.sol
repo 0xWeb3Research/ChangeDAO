@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity 0.8.19;
 
 contract ChangeDAO {
     struct Petition {
@@ -9,7 +9,7 @@ contract ChangeDAO {
         uint256 signatureCount;
         uint256 targetSignatures;
         bool isVictory;
-        address payable donationAddress;
+        address donationAddress;
         uint256 donationAmount;
         address creator;
         bool exists;
